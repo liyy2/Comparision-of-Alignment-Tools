@@ -1,0 +1,10 @@
+Report
+Read length 50
+Bwa precision 0.9807779826062196, recall 0.9988905
+Time: Good data 0m7.868s bad data 0m5.483s
+Bowtie2 precision 0.9835806475937531, recall 0.9717585
+Time: Good data 0m3.656s bad data 0m2.685s
+Bowtie precision 1.0, recall 0.918166
+Time: Good data 0m2.536s bad data 0m2.452s
+Subread precision 0.9609750401035995, recall 0.9216505
+Time: Good data 0m12.769s bad data 0m10.312s
